@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 🍺
 
 <!--
 **brunoromeiro/brunoromeiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+My name is Bruno Romeiro from Brazil (🇧🇷). I've been working as Front-End Developer since 2011 and currently I'm at [TOTVS](https://www.totvs.com/).
+
+In my free time I like to play videogames (🎮), watch soccer (⚽️), to watch movies (🎞️) and series (📺), to listen to brazilian music (🎵).
+
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/brunoromeiro)](https://twitter.com/brunoromeiro)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brunoromeiro)](https://www.linkedin.com/in/brunoromeiro)
