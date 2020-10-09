@@ -1,9 +1,10 @@
 ## I'm Bruno Romeiro. 🍺
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=brunoromeiro" alt="brunoromeiro" /> </p>
 
 *My name is Bruno Romeiro from Brazil (🇧🇷). I've been working as Front-End Developer since 2011 and currently I'm at TOTVS.*
 
 *In my free time I like to play videogames (🎮), watch soccer (⚽️), to watch movies (🎞️) and series (📺), to listen to brazilian music (🎵).*
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=brunoromeiro" alt="brunoromeiro" /> </p>
+
 
 <p align="left">
   <a href="https://github.com/anuraghazra/github-readme-stats">
