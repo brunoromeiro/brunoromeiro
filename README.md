@@ -5,22 +5,6 @@
 
 *In my free time I like to play videogames (🎮), watch soccer (⚽️), to watch movies (🎞️) and series (📺), to listen to brazilian music (🎵).*
 
-
-<p align="left">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img
-      align="center"
-      src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=brunoromeiro&show_icons=true&hide_border=true&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&layout=compact"
-    />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img
-      align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielSilvado&layout=compact&show_icons=true&hide_border=true"
-    />
-  </a>
-</p>
-
 ## Skills
 <p align="left">
 <img src="https://devicons.github.io/devicon/devicon.git/icons/angularjs/angularjs-original.svg" alt="angularjs" width="20" height="20"/>
