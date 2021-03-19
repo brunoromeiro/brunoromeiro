@@ -1,7 +1,7 @@
 ## I'm Bruno Romeiro. 🍺
 <!--p align="left"> <img src="https://komarev.com/ghpvc/?username=brunoromeiro" alt="brunoromeiro" /> </p-->
 
-*My name is Bruno Romeiro from Brazil (🇧🇷). I've been working as Front-End Developer since 2011 and currently I'm at TOTVS, with [PO UI](https://po-ui.io) developer.*
+*My name is Bruno Romeiro from Brazil (🇧🇷). I've been working as Front-End Developer since 2011 and currently I'm at TOTVS, as a [PO UI](https://po-ui.io) developer.*
 
 *In my free time I like to play videogames (🎮), watch soccer (⚽️), to watch movies (🎞️) and series (📺), to listen to brazilian music (🎵).*
 
