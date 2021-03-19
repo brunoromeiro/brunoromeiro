@@ -1,7 +1,7 @@
 ## I'm Bruno Romeiro. 🍺
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=brunoromeiro" alt="brunoromeiro" /> </p>
+<!--p align="left"> <img src="https://komarev.com/ghpvc/?username=brunoromeiro" alt="brunoromeiro" /> </p-->
 
-*My name is Bruno Romeiro from Brazil (🇧🇷). I've been working as Front-End Developer since 2011 and currently I'm at TOTVS.*
+*My name is Bruno Romeiro from Brazil (🇧🇷). I've been working as Front-End Developer since 2011 and currently I'm at TOTVS, with [PO UI](https://po-ui.io) developer.*
 
 *In my free time I like to play videogames (🎮), watch soccer (⚽️), to watch movies (🎞️) and series (📺), to listen to brazilian music (🎵).*
 
@@ -15,8 +15,12 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" width="20" height="20"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="20" height="20"/>
 </p>
-<p align="center">
+
+## Projects Work
+<p align="left">
   <img src="https://raw.githubusercontent.com/po-ui/po-angular/master/docs/assets/po-logos/po_color_bg.svg" width="40" height="40"/>
+  <img src="https://avatars.githubusercontent.com/u/68971543?s=400&u=e76ac172b5515efe57908d81d40e6941003c2015&v=4" width="40" height="40"/>
+  
 </p>
 
 ## About me
