@@ -26,12 +26,12 @@
 ## Stats
 <div>
   <a href="https://github.com/brunoromeiro" style="text-decoration:none">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunoromeiro&show_icons=true&theme=midnight-purple" style="max-width: 50%;"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunoromeiro&show_icons=true&theme=midnight-purple" style="max-width: 100%;"/>
   </a>
 </div>
 <div>
   <a href="https://github.com/brunoromeiro" style="text-decoration:none">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoromeiro&layout=compact&langs_count=16&theme=midnight-purple" style="width: 50%;"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoromeiro&layout=compact&langs_count=16&theme=midnight-purple" style="width: 100%;"/>
   </a>
 </div>
 
