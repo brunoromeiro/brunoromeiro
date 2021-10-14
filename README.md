@@ -22,12 +22,18 @@
   <img src="https://avatars.githubusercontent.com/u/68971543?s=400&u=e76ac172b5515efe57908d81d40e6941003c2015&v=4" width="40" height="40"/>
   
 </p>
+
+## Stats
 <div>
   <a href="https://github.com/brunoromeiro" style="text-decoration:none">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunoromeiro&show_icons=true&theme=midnight-purple" style="max-width: 50%;"/></a>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunoromeiro&show_icons=true&theme=midnight-purple" style="max-width: 50%;"/>
+  </a>
+</div>
+<div>
   <a href="https://github.com/brunoromeiro" style="text-decoration:none">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoromeiro&layout=compact&langs_count=16&theme=midnight-purple" style="width: 50%;"/></a>
-  </div>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoromeiro&layout=compact&langs_count=16&theme=midnight-purple" style="width: 50%;"/>
+  </a>
+</div>
 
 ## About me
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/brunoromeiro)](https://twitter.com/brunoromeiro)
