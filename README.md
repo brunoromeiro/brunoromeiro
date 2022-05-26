@@ -38,6 +38,3 @@
 ## About me
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/brunoromeiro)](https://twitter.com/brunoromeiro)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brunoromeiro)](https://www.linkedin.com/in/brunoromeiro)
-
-## Funny
-  ![Snake animation](https://github.com/brunoromeiro/brunoromeiro/blob/output/github-contribution-grid-snake.svg)
