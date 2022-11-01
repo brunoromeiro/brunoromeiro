@@ -28,8 +28,6 @@
   <a href="https://github.com/brunoromeiro" style="text-decoration:none">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunoromeiro&show_icons=true&theme=github_dark" style="max-width: 100%;"/>
   </a>
-</div>
-<div>
   <a href="https://github.com/brunoromeiro" style="text-decoration:none">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoromeiro&layout=compact&langs_count=16&theme=github_dark" style="max-width: 100%;"/>
   </a>
@@ -38,3 +36,7 @@
 ## About me
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/brunoromeiro)](https://twitter.com/brunoromeiro)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brunoromeiro)](https://www.linkedin.com/in/brunoromeiro)
+
+## Badges
+[![@brunoromeiro's Holopin board](https://holopin.me/brunoromeiro)](https://holopin.io/@brunoromeiro)
+
