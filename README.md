@@ -18,7 +18,7 @@
 
 ## Projects Work
 <p align="left">
-  <img src="https://raw.githubusercontent.com/po-ui/po-angular/master/docs/assets/po-logos/po_color_bg.svg" width="40" height="40"/>
+  <img src="https://avatars.githubusercontent.com/u/68971543?s=200&v=4" width="40" height="40"/>
   <img src="https://avatars.githubusercontent.com/u/74078611?s=200&v=4" width="40" height="40"/>
   
 </p>
